@@ -15,24 +15,29 @@ The goal is to derive meaningful business insights related to revenue, product p
 ---
 
 ## 📂 Project Structure
+## 📂 Project Structure
+
+```
 End-to-End Sales & Customer Data Analysis using SQL and Python/
 │
 ├── data/
-│ ├── customers_cleaned.csv
-│ ├── orders_cleaned.csv
-│ └── products_cleaned.csv
+│   ├── customers_cleaned.csv
+│   ├── orders_cleaned.csv
+│   └── products_cleaned.csv
 │
 ├── python/
-│ ├── data_cleaning.ipynb
-│ └── query.ipynb
+│   ├── data_cleaning.ipynb
+│   └── query.ipynb
 │
 ├── sql/
-│ └── sales_analysis.sql
+│   └── sales_analysis.sql
 │
 ├── power bi/
-│ └── sales_powerbi.pbix
+│   └── sales_powerbi.pbix
 │
 └── README.md
+```
+
 
 
 ---
