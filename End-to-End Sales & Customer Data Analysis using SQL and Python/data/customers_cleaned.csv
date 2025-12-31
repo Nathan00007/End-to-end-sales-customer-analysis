@@ -1,0 +1,9 @@
+customer_id,customer_name,gender,age,city,signup_date
+1,Amit Sharma,Male,28,Chennai,2023-01-15
+2,Priya Singh,Female,32,Bangalore,2023-02-10
+3,Rahul Verma,Male,25,Delhi,2023-03-05
+4,Anjali Rao,Female,29,Hyderabad,2023-01-25
+5,Karthik Kumar,Male,35,Chennai,2023-04-12
+6,Neha Patel,Female,27,Ahmedabad,2023-03-18
+7,Arjun Mehta,Male,40,Mumbai,2023-02-22
+8,Sneha Iyer,Female,31,Coimbatore,2023-05-01
